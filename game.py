@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 22:33:39 2023
 
-@author: parth
+@author: Hritik
 """
 
 import cv2 
