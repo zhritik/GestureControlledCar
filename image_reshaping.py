@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 18:41:18 2023
 
-@author: parth
+@author: Hritik
 """
 
 from PIL import Image
